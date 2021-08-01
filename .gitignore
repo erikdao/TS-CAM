@@ -1,0 +1,14 @@
+# MacOS
+.DS_Store
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter notebooks
+.ipython_checkpoints/
+
+# IPython
+profile_default/
+ipython_config.py
